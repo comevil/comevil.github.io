@@ -15,7 +15,7 @@ tags:
 
 ## Misc
 
-### SIGN_IN
+### 1.SIGN_IN
 附件是一张jpg文件，查看图片的详细内容以及编码，发现编码里还隐藏了另一个jpg文件，用foremost分离看看另一张图片是什么。
 
 图片如下：
@@ -33,7 +33,7 @@ tags:
 ## Osint
 这次osint的题难度挺高的，难的不是找到地方，而是精度。
 
-### NICE_RIVER
+### 1.NICE_RIVER
 图片如下：
 ![Nice_river][Nice_river]
 
@@ -50,7 +50,7 @@ tags:
 
 大厦所在的经纬度大约为 23.104156701885007, 113.38407155776493 附近，因此 Flag 为 `{HSCCTF{23.10416,113.38407}`，太阴间了。
 
-### BUILDING
+### 2.BUILDING
 图片如下
 ![Building][Building]
 
